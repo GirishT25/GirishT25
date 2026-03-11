@@ -64,18 +64,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
+=
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://your-portfolio-link
+- 💼 LinkedIn: www.linkedin.com/in/girish-thorat-
+- 🌐 Portfolio: https://portfolio-k72n.vercel.app/
 - 📧 Email: thoratgirish286@gmail.com
 
 ---
